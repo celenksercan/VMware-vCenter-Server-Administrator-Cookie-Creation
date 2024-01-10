@@ -1,1 +1,0 @@
-# VMware-vCenter-Server-Administrator-Cookie-Creation
